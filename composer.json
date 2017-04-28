@@ -1,5 +1,7 @@
 {
-    "require-dev": {
-        "apigen/apigen": "*"
-    }
+	"name": "passionsplay/sensei",
+	"type": "wordpress-plugin",
+	"require-dev": {
+		"apigen/apigen": "*"
+	}
 }
